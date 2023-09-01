@@ -7,7 +7,7 @@
         "nacionalidade": "Grécia",
         "time": "Milwaukee Bucks",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png&h=200&w=200",
-        "ranking": "1",
+        "ranking": "1°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=250"
     },
     {
@@ -18,7 +18,7 @@
         "nacionalidade": "USA",
         "time": "Phoenix Suns",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=200&w=200",
-        "ranking": "2",
+        "ranking": "2°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3202.png&w=250"
     },
     {
@@ -29,7 +29,7 @@
         "nacionalidade": "Camarões",
         "time": "Philadelphia 76ers",
         "time-img": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Milwaukee_Bucks_logo15.png",
-        "ranking": "3",
+        "ranking": "3°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059318.png&w=250"
     },
     {
@@ -40,7 +40,7 @@
         "nacionalidade": "USA",
         "time": "Golden State Warriors",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=200&w=200",
-        "ranking": "4",
+        "ranking": "4°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&w=250"
     },
     {
@@ -51,7 +51,7 @@
         "nacionalidade": "Servia",
         "time": "Denver Nuggets",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&h=200&w=200",
-        "ranking": "5",
+        "ranking": "5°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=250"
     },
     {
@@ -62,7 +62,7 @@
         "nacionalidade": "USA",
         "time": "Boston Celtics",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&h=200&w=200",
-        "ranking": "6",
+        "ranking": "6°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065648.png&w=250"
     },
     {
@@ -73,7 +73,7 @@
         "nacionalidade": "USA",
         "time": "LA Clipers",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png&h=200&w=200",
-        "ranking": "7",
+        "ranking": "7°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6450.png&w=250"
     },
     {
@@ -84,7 +84,7 @@
         "nacionalidade": "USA",
         "time": "LA Lakers",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png&h=200&w=200",
-        "ranking": "8",
+        "ranking": "8°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=250"
     },
     {
@@ -95,7 +95,7 @@
         "nacionalidade": "USA",
         "time": "Phoenix Suns",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=200&w=200",
-        "ranking": "7",
+        "ranking": "9°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136193.png&w=250"
     },
     {
@@ -106,7 +106,7 @@
         "nacionalidade": "USA",
         "time": "LA Lakers",
         "time-img": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png&h=200&w=200",
-        "ranking": "7",
+        "ranking": "10°",
         "jogador": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png&w=250"
     }
 ]
